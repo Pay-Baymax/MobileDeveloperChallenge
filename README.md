@@ -1,4 +1,4 @@
-# Developer Coding Challenge
+# Mobile Developer Challenge
 
 The purpose of this challenge is to give us a better understanding of your coding skills. If you have any questions or need any clarifications for this challenge, please get in touch!
 
