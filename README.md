@@ -9,7 +9,7 @@ Estimated time: 1hr.
 #### Develop a Currency Conversion App that allows a user view exchange rates for any given currency
 
 - [ ] Create a Project for a Mobile Phone
-- [ ] Android: _Java/Kotlin_ | iOS: _Swift_ (sorry, no Objective-C please!)
+- [ ] Android: _Kotlin_ | iOS: _Swift_ (sorry, no Objective-C or Java please! You can learn Kotlin/Swift easily I'm sure:))
 
 ### Functional Requirements:
 - [ ] Exchange rates must be fetched from: https://currencylayer.com/documentation  
