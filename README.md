@@ -16,6 +16,7 @@ The purpose of this challenge is to give us a better understanding of your codin
 - [ ] User must be able to enter desired amount for selected currency
 - [ ] User should then see a list of exchange rates for the selected currency
 - [ ] Rates should be persisted locally and refreshed no more frequently than every 30 minutes (to limit bandwidth usage)
+- [ ] Write unit testing
 
 ### UI Suggestion:
 - [ ] Some way to select a currency
